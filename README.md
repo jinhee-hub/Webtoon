@@ -1,2 +1,4 @@
-# Webtoon (currently repairing 🛠️)
+# Webtoon (repairing 🛠️)
+
+Kr -> Eng
 Classification, GAN for Webtoon
