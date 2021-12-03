@@ -1,2 +1,2 @@
 # Webtoon
-Classification, GAN for Webtoon dataset
+Classification, GAN for Webtoon
