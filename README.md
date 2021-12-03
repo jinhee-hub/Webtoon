@@ -1,2 +1,2 @@
-# Webtoon (repairing)
+# Webtoon (currently fine-tuning 🛠️)
 Classification, GAN for Webtoon
